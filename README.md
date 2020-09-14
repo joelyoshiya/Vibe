@@ -3,4 +3,6 @@ A platform for checking the "vibability" between two Spotify users. A.ka., their
 
 This will be a web based application, utilizing the Spotify API. Current candidates for our Tech stack are the MERN stack or a python-based web framework like Django.
 
+A.K.A. music-tinder
+
 For inquiries please email jyfoster@wisc.edu 
