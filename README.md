@@ -6,3 +6,5 @@ This will be a web based application, utilizing the Spotify API. Current candida
 A.K.A. music-tinder
 
 For inquiries please email jyfoster@wisc.edu 
+
+https://github.com/jyfoster3/SpotiVibez/blob/master/spotivibez.png
