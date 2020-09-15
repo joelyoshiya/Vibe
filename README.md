@@ -7,4 +7,4 @@ A.K.A. music-tinder
 
 For inquiries please email jyfoster@wisc.edu 
 
-![Spotivibez Logo](https://github.com/jyfoster3/SpotiVibez/blob/master/spotivibez.png)
+![Spotivibez Logo](https://github.com/jyfoster3/SpotiVibez/blob/master/spotivibes-01-01.png)
