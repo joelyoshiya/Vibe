@@ -3,7 +3,7 @@ A platform for checking the "vibability" between two Spotify users. A.ka., their
 
 This will be a web based application, utilizing the Spotify API. Currently planning to implement with React/MERN Stack. 
 
-Inspired by obscurifymusic.com and musictaste.space
+Inspired by [obscurify](obscurifymusic.com) and [musictaste](musictaste.space)
 
 A.K.A. music-tinder
 
