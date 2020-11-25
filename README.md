@@ -9,6 +9,6 @@ A.K.A. music-tinder
 
 For inquiries please email jyfoster@wisc.edu 
 
-![Spotivibes Logo](https://github.com/jyfoster3/SpotiVibes/blob/master/Spotivibes_Logo-v2png.png)
+![Spotivibes Logo](https://github.com/jyfoster3/SpotiVibes/blob/master/spotivibes-app/assets/Spotivibes_Logo-v2png.png)
 
-![Spotivibes_gif](https://github.com/jyfoster3/SpotiVibes/blob/master/Spotivibes_gif.gif)
+![Spotivibes_gif](https://github.com/jyfoster3/SpotiVibes/blob/master/spotivibes-app/assets/Spotivibes_gif.gif)
