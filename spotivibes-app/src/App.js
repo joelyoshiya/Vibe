@@ -1,5 +1,5 @@
 import logo from './logo.svg';
-// import spotiLogo from './assets/Spotivibes_gif.gif';
+import spotiGif from './assets/Spotivibes_gif.gif';
 // import spotiLogo from './assets/Spotivibes_Logo-v2png.png';
 import './App.css';
 
@@ -7,9 +7,11 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src={spotiGif} className="App-spotiGif" alt="logo-gif" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
+          <br/>
+          Spotivibes
         </p>
         <a
           className="App-link"
