@@ -1,4 +1,4 @@
-# SpotiVibes
+# Vibe (to be renamed)
 A platform for checking the "vibability" between two Spotify users. a.ka., their chemistry in terms of music taste. Pairs are given a "Vibe-rating" to determine their compatibility. 
 
 This will be a web based application, utilizing the Spotify API. Currently planning to implement with React/MERN Stack. 
