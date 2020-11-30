@@ -1,16 +1,17 @@
-import logo from './logo.svg';
-import spotiGif from './assets/Spotivibes_gif.gif';
-// import spotiLogo from './assets/Spotivibes_Logo-v2png.png';
-import './App.css';
+import logo from "./logo.svg";
+import spotiGif from "./assets/Spotivibes_gif.gif";
+import spotiLogo from "./assets/Spotivibes_Logo-v2png.png";
+import "./App.css";
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
         <img src={spotiGif} className="App-spotiGif" alt="logo-gif" />
+        <img src={spotiLogo} className="App-spotiLogo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
-          <br/>
+          <br />
           Spotivibes
         </p>
         <a
